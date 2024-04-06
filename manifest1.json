@@ -1,0 +1,15 @@
+{
+    "name": "Workshop Dress",
+    "description": "Mechanical dress, used just 1 semester , in perfect condition . washed and clean .",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfT4S3Fm9QhrnXBO6Hzxfrxmha5IMQviqfy3XmXYstw&s",
+    "attributes": [
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        },
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        }
+    ]
+}
