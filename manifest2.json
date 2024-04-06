@@ -1,6 +1,6 @@
 {
     "name": "Drafter",
-    "description": "Engineering Drawing drafter, used only for 1 semester ",
+    "description": "Engineering Drawing drafter, used only for 1 semester.",
     "image": "https://isomarsshop.in/cdn/shop/products/md1_2048x.jpg?v=1625290866",
     "attributes": [
         {
@@ -10,6 +10,6 @@
         {
             "trait_type": "Trait Name",
             "value": "Trait Value"
-        }
-    ]
+        }
+    ]
 }
