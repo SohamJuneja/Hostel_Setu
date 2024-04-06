@@ -1,1 +1,16 @@
+{
+    "name": "Snacks",
+    "description": "Stock available , delivery to the room charges etc . Lays , Kurkure , Cold Drinks available ",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuTrXZWxES4xcMqtIPkuDiPfxDu0wZXVeLoXn5tSQBHA&s",
+    "attributes": [
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        },
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        }
+    ]
+}
 
