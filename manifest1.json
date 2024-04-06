@@ -1,3 +1,4 @@
+
 {
     "name": "Workshop Dress",
     "description": "Mechanical dress, used just 1 semester , in perfect condition . washed and clean .",
@@ -10,6 +11,6 @@
         {
             "trait_type": "Trait Name",
             "value": "Trait Value"
-        }
-    ]
+        }
+    ]
 }
