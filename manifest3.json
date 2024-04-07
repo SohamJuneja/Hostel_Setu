@@ -4,8 +4,8 @@
     "image": "https://i.ibb.co/X3SCJhK/lab-coat-5.jpg",
     "attributes": [
         {
-            "trait_type": "Trait Name",
-            "value": "Trait Value"
+            "trait_type": "Clothing",
+            "value": "LabCoat"
         },
         {
             "trait_type": "Trait Name",
