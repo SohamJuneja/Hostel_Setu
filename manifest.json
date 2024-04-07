@@ -6,10 +6,6 @@
         {
             "trait_type": "Electronics",
             "value": "Calculator"
-        },
-        {
-            "trait_type": "Trait Name",
-            "value": "Trait Value"
         }
     ]
 }
