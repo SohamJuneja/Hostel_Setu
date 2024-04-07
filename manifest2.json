@@ -6,10 +6,6 @@
         {
             "trait_type": "Stationary",
             "value": "Drafter"
-        },
-        {
-            "trait_type": "Trait Name",
-            "value": "Trait Value"
         }
     ]
 }
