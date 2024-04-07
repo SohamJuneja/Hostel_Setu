@@ -6,10 +6,6 @@
         {
             "trait_type": "Clothing",
             "value": "LabCoat"
-        },
-        {
-            "trait_type": "Trait Name",
-            "value": "Trait Value"
         }
     ]
 }
