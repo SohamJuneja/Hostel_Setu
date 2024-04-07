@@ -6,10 +6,6 @@
         {
             "trait_type": "Eatables",
             "value": "Snacks"
-        },
-        {
-            "trait_type": "Trait Name",
-            "value": "Trait Value"
         }
     ]
 }
